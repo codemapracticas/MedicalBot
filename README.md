@@ -1,5 +1,4 @@
 #MedicalBot
-
 Este fue un proyecto realizado en el año 2018 para el concurso Talento Innovador.
 
 Su principal objeto era realizar una aplicación para el móvil que pudiese contactar con un servicio médico o de salud para faciitar la tarea de atender a los pacientes que no pudiesen desplazarse a un centro de salud.
